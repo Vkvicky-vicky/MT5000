@@ -1,0 +1,15 @@
+name: mt5000
+title: mt5000
+username:
+account: Vicky kumawat
+server: posit.cloud
+hostUrl: https://api.shinyapps.io/v1
+appId: 8944790
+bundleId: 7132431
+url: https://posit.cloud/content/5861779
+when: 1682420215.85535
+lastSyncTime: 1682420215.85536
+quarto_version: 1.2.475
+quarto_engines: markdown
+asMultiple: FALSE
+asStatic: FALSE
